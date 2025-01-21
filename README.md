@@ -58,9 +58,9 @@
 <h2>📷 Ekran Görüntüleri</h2>
 <p>Uygulama ile ilgili bazı ekran görüntüleri aşağıda bulunmaktadır.</p>
 
-<img src="https://github.com/user-attachments/assets/4076323e-c5fd-4654-8468-dee66112b889" alt="Uygulama Ekran Görüntüsü1" width="300">
-<img src="https://github.com/user-attachments/assets/34b546da-bb77-4169-a19c-20d4f25fad30" alt="Uygulama Ekran Görüntüsü2" width="300">
-<img src="https://github.com/user-attachments/assets/9745f242-5651-4145-b202-ff0173db10e5" alt="Uygulama Ekran Görüntüsü3" width="300">
+<img src="https://github.com/user-attachments/assets/4076323e-c5fd-4654-8468-dee66112b889" alt="Uygulama Ekran Görüntüsü1" width="200">
+<img src="https://github.com/user-attachments/assets/34b546da-bb77-4169-a19c-20d4f25fad30" alt="Uygulama Ekran Görüntüsü2" width="200">
+<img src="https://github.com/user-attachments/assets/9745f242-5651-4145-b202-ff0173db10e5" alt="Uygulama Ekran Görüntüsü3" width="200">
 
 <hr>
 </body>
